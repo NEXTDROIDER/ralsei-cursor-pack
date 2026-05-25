@@ -1,0 +1,2 @@
+installation :
+'bash install.sh`
